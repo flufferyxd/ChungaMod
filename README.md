@@ -1,5 +1,7 @@
 # Chungamod for Minecraft 1.12
 
+The other CHungamod repo is on a random website, i put it on github
+
 Chungamod is an open source, funny Minecraft client mod providing a framework for in-game utilities.  The goal of Chungamod is to allow utilities from many projects to be connected under the same user interfaces, which are extensible and provide complex configuration management.
 
 > Discord: https://discord.gg/DeEWQxFr2j
